@@ -19,7 +19,7 @@
 
 #### Key Highlights:
 - 🚀 **100% Job Success Score** (JSS) on Upwork.
-- 💼 **5000+ Hours Worked** | **$100k+ Earned**.
+- 💼 **5000+ Hours Worked**
 - 📈 Expertise across industries with a proven track record.
 - 💬 Flexible communication with timezone-friendly project updates.
 
