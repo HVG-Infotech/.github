@@ -84,7 +84,7 @@
 ### Ready to Start?
 
 📩 **Contact Us**:  
-- **Email**: [admin@hvginfotech.com](mailto:hello@hvginfotech.com)  
+- **Email**: [contact@hvginfotech.com](mailto:contact@hvginfotech.com)  
 - **Phone**: Available on request via [schedule link](https://zcal.co/hvginfotech/30min).
 
 <h3 align="left">Languages and Tools:</h3>
