@@ -6,7 +6,7 @@
 ---
 
 🌐 **Website**: [https://www.hvginfotech.com](https://www.hvginfotech.com)  
-🤝 **Upwork**: [HVG Infotech Private Limited](https://www.upwork.com/agencies/hvginfotech)  
+🤝 **Upwork**: [HVG Infotech](https://www.upwork.com/agencies/hvginfotech)  
 📋 **Clutch**: [HVG Infotech Profile](https://clutch.co/profile/hvg-infotech-private)  
 📺 **YouTube**: [Our Company Overview](https://www.youtube.com/watch?v=wPoMiiRokNc)  
 📅 **Schedule a Call**: [Book a 30-Minute Session](https://zcal.co/hvginfotech/30min)
