@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to HVG Infotech Private Limited 👋</h1>
+<h1 align="center">Welcome to HVG Infotech 👋</h1>
 <h3 align="center">Empowering Businesses with Cutting-Edge IT Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-vaghela" alt="sagarvaghela" /> </p>
@@ -6,7 +6,7 @@
 ---
 
 🌐 **Website**: [https://www.hvginfotech.com](https://www.hvginfotech.com)  
-🤝 **Upwork**: [HVG Infotech Private Limited](https://www.upwork.com/agencies/hvginfotechpvtltd/)  
+🤝 **Upwork**: [HVG Infotech Private Limited](https://www.upwork.com/agencies/hvginfotech)  
 📋 **Clutch**: [HVG Infotech Profile](https://clutch.co/profile/hvg-infotech-private)  
 📺 **YouTube**: [Our Company Overview](https://www.youtube.com/watch?v=wPoMiiRokNc)  
 📅 **Schedule a Call**: [Book a 30-Minute Session](https://zcal.co/hvginfotech/30min)
@@ -15,11 +15,11 @@
 
 ### About HVG Infotech
 
-**HVG Infotech Private Limited** is a reputed software engineering company with over **6+ years of experience** and a skilled team of **15+ engineers**. We specialize in delivering top-notch IT services, tailored consultations, and reliable project management to help our clients achieve their business goals.
+**HVG Infotech** is a reputed software engineering company with over **6+ years of experience** and a skilled team of **15+ engineers**. We specialize in delivering top-notch IT services, tailored consultations, and reliable project management to help our clients achieve their business goals.
 
 #### Key Highlights:
 - 🚀 **100% Job Success Score** (JSS) on Upwork.
-- 💼 **5000+ Hours Worked**
+- 💼 **7500+ Hours Worked**
 - 📈 Expertise across industries with a proven track record.
 - 💬 Flexible communication with timezone-friendly project updates.
 
@@ -84,7 +84,8 @@
 ### Ready to Start?
 
 📩 **Contact Us**:  
-- **Email**: [contact@hvginfotech.com](mailto:contact@hvginfotech.com)  
+- **Email**: [contact@hvginfotech.com](mailto:contact@hvginfotech.com)
+- **Sales**: [sales@hvginfotech.com](mailto:sales@hvginfotech.com)  
 - **Phone**: Available on request via [schedule link](https://zcal.co/hvginfotech/30min).
 
 <h3 align="left">Languages and Tools:</h3>
